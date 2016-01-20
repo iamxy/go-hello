@@ -11,5 +11,5 @@ func main() {
 			fmt.Printf("%v\n", i)
 		}
 	}
-	fmt.Println("finished !")
+	fmt.Println("run over !")
 }
