@@ -12,5 +12,4 @@ func main() {
 	path, _ := filepath.Abs(file)
 	fmt.Println(path)
 	fmt.Println(path)
-	fmt.Println(path)
 }
