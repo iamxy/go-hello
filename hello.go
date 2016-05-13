@@ -11,5 +11,5 @@ func main() {
 	file, _ := exec.LookPath(os.Args[0])
 	path, _ := filepath.Abs(file)
 	fmt.Println(path)
-	fmt.Println("ok")
+	fmt.Println("ok!")
 }
