@@ -2,4 +2,4 @@
 
 A simple `docker-compose.yml`:
 
-<script src="https://gist.github.com/siddontang/8cf79aebeb8d26a609ad853e5e25c40c.js"></script>
+<script src="https://gist.github.com/siddontang/d54150cf2d6a17b511317559f849fa4e.js"></script>
